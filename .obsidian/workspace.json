@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3e0aaa1bc9f6a4fd",
+        "id": "2c5aa2a8ec33f8d3",
         "type": "tabs",
         "children": [
           {
-            "id": "ca1cb6390f0a6829",
+            "id": "97699e9d3f63c742",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Spring/Spring.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Spring/Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Spring/Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Programming Languages/Java.md"
+                "file": "Notes/Spring/Spring.md"
               }
             }
           }
@@ -141,7 +147,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3424a3866ddf1d81",
+  "active": "97699e9d3f63c742",
   "lastOpenFiles": [
     "Notes/Spring/Pasted image 20241013131424.png",
     "Notes/Spring/Spring.md",
