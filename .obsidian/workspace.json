@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Spring/Spring.md",
+                "file": "Courses/LinkedIn Learning/Programming Foundations Fuzzy Logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Spring/Spring.md",
+                "file": "Courses/LinkedIn Learning/Programming Foundations Fuzzy Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Spring/Spring.md",
+                "file": "Courses/LinkedIn Learning/Programming Foundations Fuzzy Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Spring/Spring.md"
+                "file": "Courses/LinkedIn Learning/Programming Foundations Fuzzy Logic.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "97699e9d3f63c742",
   "lastOpenFiles": [
-    "Notes/Spring/Pasted image 20241013131424.png",
     "Notes/Spring/Spring.md",
+    "Courses/LinkedIn Learning/Programming Foundations Fuzzy Logic.md",
+    "Courses/LinkedIn Learning",
+    "Notes/Spring/Pasted image 20241013131424.png",
     "Notes/Spring/Pasted image 20241013131350.png",
     "Notes/Spring/Pasted image 20241012203514.png",
     "Notes/Spring/Pasted image 20241012194740.png",
